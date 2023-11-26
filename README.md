@@ -43,19 +43,33 @@ RegisterNumber:  23006688
 1. Program to design a half subtractor:
 
 module ex4(a,b,diff,borr);
+
 input a,b;
+
 output diff,borr;
+
 assign diff=(a^b);
+
 assign borr=((~a)&b);
+
 endmodule 
+
+
 
 2. Program to design a full subtractor:
 
+
+
 module ex41(a,b,bin,diff,borr);
+
 input a,b,bin;
+
 output diff,borr;
+
 assign diff=a^b^bin;
+
 assign borr=((~a)&b)|(b&bin)|((~a)&bin);
+
 endmodule 
 
 ## Output

@@ -85,16 +85,22 @@ FULL SUBRACTOR:
 
 ##  RTL realization
 HALF SUBRACTOR:
+
 ![image](https://github.com/HycinthD/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870810/852af11a-5fd0-4a20-adec-4e6cf1bbd415)
 
 FULL SUBRACTOR:
+
 ![image](https://github.com/HycinthD/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870810/0e4a51a7-fafe-4179-8c6b-290359559816)
 
 
 ## Timing diagram 
 HALF SUBRACTOR:
+
 ![image](https://github.com/HycinthD/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870810/300ce9c3-f7a4-4dac-9200-158d44358333)
+
+
 FULL SUBRACTOR:
+
 ![image](https://github.com/HycinthD/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/144870810/57893a6b-ba64-4956-b0c8-56a98f6e309c)
 
 ## Result:
